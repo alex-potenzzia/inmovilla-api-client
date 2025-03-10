@@ -1,0 +1,7 @@
+vendor/
+node_modules/
+.git/
+.github/
+.gitignore
+.env
+README.md
